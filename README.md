@@ -1,16 +1,9 @@
-# lab
+Flutter Testing API
 
-A new Flutter project.
+Testing is a critical aspect of Flutter development to ensure that the app behaves as expected and is free from errors. In Flutter, we can use various testing techniques, such as unit tests, widget tests, and integration tests, to verify the functionality of different components of the app.
 
-## Getting Started
+Weather App using Open Meteo API
 
-This project is a starting point for a Flutter application.
+A weather app is a great example of how to integrate third-party APIs in Flutter. Open Meteo provides a free and easy-to-use API to fetch weather data globally. With Open Meteo, we can retrieve real-time weather information, including temperature, humidity, wind speed, and weather conditions, and display this data in our Flutter app
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ALSO can Searching with thai language
